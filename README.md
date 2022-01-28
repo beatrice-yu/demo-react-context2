@@ -2,6 +2,8 @@
 
 - Simple Auth / Login App
 
+https://youtu.be/AKdR9Rn7fDY
+
 - accepts any username / email address & password
 - creates a dummy userId for the newly logged in user
 - sets `auth` state to logged in and shows User Info with logout button
